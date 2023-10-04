@@ -1,0 +1,262 @@
+{
+    "departments": [
+        {
+            "department": "Accounting (ACCT)"
+        },
+        {
+            "department": "Agriculture (AGR)"
+        },
+        {
+            "department": "Animal Science (ANSC)"
+        },
+        {
+            "department": "Anthropology (ANTH)"
+        },
+        {
+            "department": "Arabic (ARAB)"
+        },
+        {
+            "department": "Art History (ARTH)"
+        },
+        {
+            "department": "Arts and Sciences (ASCI)"
+        },
+        {
+            "department": "Biochemistry (BIOC)"
+        },
+        {
+            "department": "Biology (BIOL)"
+        },
+        {
+            "department": "Biomedical Science (BIOM)"
+        },
+        {
+            "department": "Botany (BOT)"
+        },
+        {
+            "department": "Business (BUS)"
+        },
+        {
+            "department": "Chemistry (CHEM)"
+        },
+        {
+            "department": "Chinese (CHIN)"
+        },
+        {
+            "department": "Classical Studies (CLAS)"
+        },
+        {
+            "department": "Co-operative Education (COOP)"
+        },
+        {
+            "department": "Computing and Information Science (CIS)"
+        },
+        {
+            "department": "Crop Science (CROP)"
+        },
+        {
+            "department": "Culture and Technology Studies (CTS)"
+        },
+        {
+            "department": "Economics (ECON)"
+        },
+        {
+            "department": "Engineering (ENGG)"
+        },
+        {
+            "department": "English (ENGL)"
+        },
+        {
+            "department": "Environmental Design and Rural Development (EDRD)"
+        },
+        {
+            "department": "Environmental Management (ENVM)"
+        },
+        {
+            "department": "Environmental Sciences (ENVS)"
+        },
+        {
+            "department": "Equine (EQN)"
+        },
+        {
+            "department": "European Studies (EURO)"
+        },
+        {
+            "department": "External Courses - Seneca (XSEN)"
+        },
+        {
+            "department": "Family Relations and Human Development (FRHD)"
+        },
+        {
+            "department": "Finance (FIN)"
+        },
+        {
+            "department": "Food Science (FOOD)"
+        },
+        {
+            "department": "Food, Agricultural and Resource Economics (FARE)"
+        },
+        {
+            "department": "French Studies (FREN)"
+        },
+        {
+            "department": "Geography (GEOG)"
+        },
+        {
+            "department": "German Studies (GERM)"
+        },
+        {
+            "department": "Greek Studies (GREK)"
+        },
+        {
+            "department": "History (HIST)"
+        },
+        {
+            "department": "Horticultural Science (HORT)"
+        },
+        {
+            "department": "Hospitality and Tourism Management (HTM)"
+        },
+        {
+            "department": "Human Kinetics (HK)"
+        },
+        {
+            "department": "Human Resources and Organizational Behaviour (HROB)"
+        },
+        {
+            "department": "Humanities (HUMN)"
+        },
+        {
+            "department": "Indigenous Environmental Science (IES)"
+        },
+        {
+            "department": "Indigenous Studies (INDG)"
+        },
+        {
+            "department": "Integrative Biology (IBIO)"
+        },
+        {
+            "department": "Interdisciplinary Agriculture, Environment and Food (IAEF)"
+        },
+        {
+            "department": "Interdisciplinary Physical Science (IPS)"
+        },
+        {
+            "department": "Interdisciplinary Social Science (ISS)"
+        },
+        {
+            "department": "Interdisciplinary University (UNIV)"
+        },
+        {
+            "department": "International Development Studies (IDEV)"
+        },
+        {
+            "department": "Italian Studies (ITAL)"
+        },
+        {
+            "department": "Justice and Legal Studies (JLS)"
+        },
+        {
+            "department": "Landscape Architecture (LARC)"
+        },
+        {
+            "department": "Latin (LAT)"
+        },
+        {
+            "department": "Linguistics (LING)"
+        },
+        {
+            "department": "Management (MGMT)"
+        },
+        {
+            "department": "Marketing and Consumer Studies (MCS)"
+        },
+        {
+            "department": "Mathematics (MATH)"
+        },
+        {
+            "department": "Microbiology (MICR)"
+        },
+        {
+            "department": "Molecular and Cellular Biology (MCB)"
+        },
+        {
+            "department": "Molecular Biology and Genetics (MBG)"
+        },
+        {
+            "department": "Music (MUSC)"
+        },
+        {
+            "department": "Nanoscience (NANO)"
+        },
+        {
+            "department": "Neuroscience (NEUR)"
+        },
+        {
+            "department": "Nutrition (NUTR)"
+        },
+        {
+            "department": "One Health (ONEH)"
+        },
+        {
+            "department": "Organic Agriculture (OAGR)"
+        },
+        {
+            "department": "Pathology (PATH)"
+        },
+        {
+            "department": "Philosophy (PHIL)"
+        },
+        {
+            "department": "Physics (PHYS)"
+        },
+        {
+            "department": "Plant Biology (PBIO)"
+        },
+        {
+            "department": "Political Science (POLS)"
+        },
+        {
+            "department": "Population Medicine (POPM)"
+        },
+        {
+            "department": "Portuguese (PORT)"
+        },
+        {
+            "department": "Psychology (PSYC)"
+        },
+        {
+            "department": "Real Estate and Housing (REAL)"
+        },
+        {
+            "department": "Sociology (SOC)"
+        },
+        {
+            "department": "Sociology and Anthropology (SOAN)"
+        },
+        {
+            "department": "Spanish (SPAN)"
+        },
+        {
+            "department": "Statistics (STAT)"
+        },
+        {
+            "department": "Studio Art (SART)"
+        },
+        {
+            "department": "Theatre Studies (THST)"
+        },
+        {
+            "department": "Toxicology (TOX)"
+        },
+        {
+            "department": "Veterinary Medicine (VETM)"
+        },
+        {
+            "department": "Women's Studies (WMST)"
+        },
+        {
+            "department": "Zoology (ZOO)"
+        }
+    ]
+}
